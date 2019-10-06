@@ -1,0 +1,10 @@
+
+coordinates of airplane1: 4 5
+
+coordinates of airplane2: 1 6
+
+coordinates of airplane3: 1 5
+
+coordinates of airplane4: 4 4
+
+coordinates of airplane5: 5 4
