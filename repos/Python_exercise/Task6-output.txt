@@ -1,0 +1,140 @@
+Creating New Aircraft Object: 0
+New Aircraft Object Has Just Been Initalized: 0
+Initial X-Coord: 51
+Initial Y-Coord: 18
+New Boeing 747 Object Has Just Been Iniitalized: 0
+X-Coord: 1
+Y-Coord: 6
+Creating New Aircraft Object: 1
+New Aircraft Object Has Just Been Initalized: 1
+Initial X-Coord: 18
+Initial Y-Coord: 12
+New Boeing 747 Object Has Just Been Iniitalized: 1
+X-Coord: 19
+Y-Coord: 8
+Creating New Aircraft Object: 2
+New Aircraft Object Has Just Been Initalized: 2
+Initial X-Coord: 33
+Initial Y-Coord: 82
+New Boeing 747 Object Has Just Been Iniitalized: 2
+X-Coord: 47
+Y-Coord: 42
+Creating New Aircraft Object: 3
+New Aircraft Object Has Just Been Initalized: 3
+Initial X-Coord: 10
+Initial Y-Coord: 45
+New Boeing 747 Object Has Just Been Iniitalized: 3
+X-Coord: 61
+Y-Coord: 45
+Creating New Aircraft Object: 4
+New Aircraft Object Has Just Been Initalized: 4
+Initial X-Coord: 14
+Initial Y-Coord: 25
+New Boeing 747 Object Has Just Been Iniitalized: 4
+X-Coord: 25
+Y-Coord: 15
+
+Aircraft [ 0 ]
+Final X-Coord: 51
+Final Y-Coord: 18
+
+Aircraft [ 1 ]
+Final X-Coord: 18
+Final Y-Coord: 12
+
+Aircraft [ 2 ]
+Final X-Coord: 33
+Final Y-Coord: 82
+
+Aircraft [ 3 ]
+Final X-Coord: 10
+Final Y-Coord: 45
+
+Aircraft [ 4 ]
+Final X-Coord: 14
+Final Y-Coord: 25
+
+Aircraft  0
+Starting from: ( 51 , 18 )
+Headed to: ( 1 , 6 )
+We have arrived
+Acceleration Constant: 1
+
+Aircraft  1
+Starting from: ( 18 , 12 )
+Headed to: ( 19 , 8 )
+19 , 8.0
+We have arrived
+Acceleration Constant: 1
+
+Aircraft  2
+Starting from: ( 33 , 82 )
+Headed to: ( 47 , 42 )
+47 , 42.0
+We have arrived
+Acceleration Constant: 1
+
+Aircraft  3
+Starting from: ( 10 , 45 )
+Headed to: ( 61 , 45 )
+10 , 45.0
+11 , 45.0
+12 , 45.0
+13 , 45.0
+14 , 45.0
+15 , 45.0
+16 , 45.0
+17 , 45.0
+18 , 45.0
+19 , 45.0
+20 , 45.0
+21 , 45.0
+22 , 45.0
+23 , 45.0
+24 , 45.0
+25 , 45.0
+26 , 45.0
+27 , 45.0
+28 , 45.0
+29 , 45.0
+30 , 45.0
+31 , 45.0
+32 , 45.0
+33 , 45.0
+34 , 45.0
+35 , 45.0
+36 , 45.0
+37 , 45.0
+38 , 45.0
+39 , 45.0
+40 , 45.0
+41 , 45.0
+42 , 45.0
+43 , 45.0
+44 , 45.0
+45 , 45.0
+46 , 45.0
+47 , 45.0
+48 , 45.0
+49 , 45.0
+50 , 45.0
+51 , 45.0
+52 , 45.0
+53 , 45.0
+54 , 45.0
+55 , 45.0
+56 , 45.0
+57 , 45.0
+58 , 45.0
+59 , 45.0
+60 , 45.0
+61 , 45.0
+We have arrived
+Acceleration Constant: 1
+
+Aircraft  4
+Starting from: ( 14 , 25 )
+Headed to: ( 25 , 15 )
+25 , 15.0
+We have arrived
+Acceleration Constant: 1
